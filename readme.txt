@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 test stage function
-create a new branch:dev
+creating a new branch:dev is sample.
